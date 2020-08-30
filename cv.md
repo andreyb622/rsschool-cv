@@ -1,7 +1,7 @@
 # Andrei Maksimenka
 
 ## Contact info:  
-**tel:** +375 (29) 1035072    
+**tel/telegram:** +375 (29) 1035072    
 **e-mail:** andreyb622@gmail.com  
 
 ## Summary
