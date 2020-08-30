@@ -7,7 +7,7 @@
 ## Summary
 I want to start a career as a front-end developer. Passed basic courses on html, css and javascript. Also completed the basic course react.js
 ## Skills 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, React
 
 ## Code examples:
 [GitHub](https://github.com/andreyb622/tms-html/blob/master/lesson%206/index.html)
