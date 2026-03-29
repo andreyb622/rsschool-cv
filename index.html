@@ -24,10 +24,10 @@
   <p>HTML, CSS, JavaScript, React</p>
   <h3 class="example">Code examples:</h3>
   <pre class="code">
-    const mapDispatchToProps = (dispatch) => {
+    const mapDispatchToProps = (dispatch) =&gt; {
       return {
-        addPost: () => { dispatch(addPostActionCreator()) },
-        updateNewPostTextAction: (text) => {
+        addPost: () =&gt; { dispatch(addPostActionCreator()) },
+        updateNewPostTextAction: (text) =&gt; {
           let action = updateNewPostTextActionCreator(text)
           dispatch(action)
         }
