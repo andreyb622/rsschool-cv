@@ -5,7 +5,7 @@
 **e-mail:** andreyb622@gmail.com  
 
 ## Summary
-I want to start a career as a front-end developer. Passed basic courses on html, css and javascript. Also completed the basic course react.js
+Passed basic courses on html, css and javascript. Also completed the basic course react.js
 ## Skills 
 HTML, CSS, JavaScript, React
 
