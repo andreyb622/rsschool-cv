@@ -1,19 +1,27 @@
 # Andrei Maksimenka
 
-## Contact info:  
+![Компьютер](avatar.png)
+
+## Contact Information:  
 **tel/telegram:** +375 (29) 1035072    
 **e-mail:** andreyb622@gmail.com  
+**discord:** andreyb62
 
 ## Summary
-Passed basic courses on html, css and javascript. Also completed the basic course react.js
+I have experience in a couple project, and I used HTML, CSS and JS
 ## Skills 
 HTML, CSS, JavaScript, React
 
 ## Code examples:
-[GitHub](https://github.com/andreyb622/tms-html/blob/master/lesson%206/index.html)
-
+[Codewars](https://www.codewars.com/users/andreyb622/completed_solutions)
+```
+function solution(str){
+    return str.split('').reverse().join('')
+}
+```
 ## Experience:
-[Github](https://github.com/andreyb622/tms-html)
+
+[Website Github](https://github.com/andreyb622/tms-html)
 
 ## Education: 
 BSMU 2011-2018
