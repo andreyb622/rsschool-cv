@@ -25,6 +25,11 @@ li {
   text-align: left;
 }
 
+header {
+  padding: 10px 0;
+  background-color: #f7f7f7;
+}
+
 footer {
   padding: 10px 0;
   background-color: #f7f7f7;
