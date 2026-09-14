@@ -1,43 +1,62 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Andrei Maksimenka CV</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Andrei Maksimenka CV</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <h1><a href="https://andreyb622.github.io/rsschool-cv/">rsschool-cv</a></h1>
-  <img src="avatar.svg" alt="logo">
-  <h2 class="name">Andrei Maksimenka</h2>
-  <h3 class="info">Contact info:</h3>
-  <ul>
-    <li><strong>tel/telegram:</strong><a href="tel:+375291035072">+375291035072</a></li>
-    <li><strong>e-mail:</strong><a href="mailto:andreyb622@gmail.com">andreyb622@gmail.com</a></li>
-  </ul>
-  <h3 class="summary">Summary</h3>
-  <p>I want to start a career as a front-end developer. Passed basic courses on html, css and javascript. Also completed
-    the basic course react.js</p>
-  <h3 class="skills">Skills</h3>
-  <p>HTML, CSS, JavaScript, React</p>
-  <h3 class="example">Code examples:</h3>
-  <pre class="code">
-    const mapDispatchToProps = (dispatch) =&gt; {
-      return {
-        addPost: () =&gt; { dispatch(addPostActionCreator()) },
-        updateNewPostTextAction: (text) =&gt; {
-          let action = updateNewPostTextActionCreator(text)
-          dispatch(action)
+  <body>
+    <main>
+      <h1>
+        <a href="https://andreyb622.github.io/rsschool-cv/">rsschool-cv</a>
+      </h1>
+      <img src="avatar.svg" alt="logo" width="300" height="300" />
+      <h2 class="name">Andrei Maksimenka</h2>
+      <h3 class="info">Contact info:</h3>
+      <ul>
+        <li>
+          <strong>tel/telegram:</strong
+          ><a href="tel:+375291035072">+375291035072</a>
+        </li>
+        <li>
+          <strong>e-mail:</strong
+          ><a href="mailto:andreyb622@gmail.com">andreyb622@gmail.com</a>
+        </li>
+      </ul>
+      <h3 class="summary">Summary</h3>
+      <p>
+        I want to start a career as a front-end developer. Passed basic courses
+        on html, css and javascript. Also completed the basic course react.js
+      </p>
+      <h3 class="skills">Skills</h3>
+      <p>HTML, CSS, JavaScript, React</p>
+      <h3 class="example">Code examples:</h3>
+      <pre class="code">
+        const mapDispatchToProps = (dispatch) =&gt; {
+          return {
+            addPost: () =&gt; { dispatch(addPostActionCreator()) },
+            updateNewPostTextAction: (text) =&gt; {
+              let action = updateNewPostTextActionCreator(text)
+              dispatch(action)
+            }
+          }
         }
-      }
-    }
-  </pre>
-  <h3 class="education">Education:</h3>
-  <p>BSMU 2011-2018</p>
-  <h3 class="english">English:</h3>
-  <p>Pre-intermediate (A2)</p>
-</body>
-
+      </pre>
+      <h3 class="education">Education:</h3>
+      <p>BSMU 2011-2018</p>
+      <h3 class="english">English:</h3>
+      <p>Pre-intermediate (A2)</p>
+    </main>
+    <footer>
+      <p>2026</p>
+      <div>
+        <img src="rs-school-logo.svg" alt="logo" width="55.28" height="20.53" />
+      </div>
+      <p>
+        <a href="https://rs.school/courses/javascript"> rs school project </a>
+      </p>
+    </footer>
+  </body>
 </html>
