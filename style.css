@@ -5,25 +5,27 @@ body {
   text-align: center;
 }
 
-pre.code {  
+pre.code {
   margin-top: 0px;
+  margin-bottom: 0px;
   display: inline-block;
   text-align: left;
   background-color: rgb(247, 247, 247);
 }
 
-ul{
-  max-width:300px;
+ul {
+  max-width: 300px;
   margin-top: 0px;
-  margin-bottom: 0px;	
-  display:inline-block;
+  margin-bottom: 0px;
+  display: inline-block;
   text-align: left;
 }
 
-li{
+li {
   text-align: left;
 }
 
-img {
-  height: 300px;
+footer {
+  padding: 10px 0;
+  background-color: #f7f7f7;
 }
